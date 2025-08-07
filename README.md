@@ -6,6 +6,9 @@ Built using **Express.js**, **MongoDB**, and **cron jobs**, this backend offers 
 
 ---
 
+## Frontend URL - https://woo-commerce-frontend.vercel.app/
+## Backend URL - https://woocommerce-backend-lzlv.onrender.com/
+
 ## 🚀 Key Features
 
 - ⏱️ **Automated Product Ingestion** from WooCommerce (every 5 minutes)
