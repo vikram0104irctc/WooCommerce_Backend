@@ -35,7 +35,7 @@ const swaggerOptions = {
         description: "Development server"
       },
       {
-        url: `${process.env.Production_Server_Url} || https://api.example.com`,
+        url: `${process.env.Production_Server_Url}`,
         description: "Production server"
       }
     ],
