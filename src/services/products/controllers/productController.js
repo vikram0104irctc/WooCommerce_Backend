@@ -1,8 +1,6 @@
-import axios from "axios";
-import { wooCommerceConfig } from "../../../../config/woocommerce.js";
 import { Product } from "../models/Product.js";
 import logger from "../../../logger/logger.js";
-import { PeriodicIngestion } from "../../../utils/periodicingestion.js";
+import { PeriodicIngestion } from "../../../utils/periodicIngestion.js";
 
 /**
  * Controller for handling product-related operations including ingestion from WooCommerce and retrieval from the database.

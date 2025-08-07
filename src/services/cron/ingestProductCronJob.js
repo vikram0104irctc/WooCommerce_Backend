@@ -1,5 +1,5 @@
 import cron from "node-cron";
-import { PeriodicIngestion } from "../../utils/periodicingestion.js";
+import { PeriodicIngestion } from "../../utils/periodicIngestion.js";
 
 class IngestionCronJobClass {
   start() {
